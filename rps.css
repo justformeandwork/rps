@@ -1,0 +1,43 @@
+body{
+  background-color: rgb(25,25,25);
+  color: white;
+  font-family: arial;
+}
+.title{
+  font-size: 30px;
+  font-weight: bold;
+}
+.moveimage{
+  height: 50px;
+}
+.move-button{
+  background-color: transparent;
+  border:3px solid white;
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.endresult{
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+.js-score{
+  margin-top: 60px;
+}
+.Reset-button,
+.auto-button{
+  background-color: white;
+  color:black;
+  border: none;
+  padding: 8px 15px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.no-button,
+.yes-button{
+  padding: 7px 15px;
+  margin-right: 5px;
+}
